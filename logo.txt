@@ -1,0 +1,18 @@
+                                                                                                                  
+                                                   dddddddd                                                       
+ 333333333333333                                   d::::::d                                                       
+3:::::::::::::::33                                 d::::::d                                                       
+3::::::33333::::::3                                d::::::d                                                       
+3333333     3:::::3                                d:::::d                                                        
+            3:::::3rrrrr   rrrrrrrrr       ddddddddd:::::d     cccccccccccccccc  aaaaaaaaaaaaa  nnnn  nnnnnnnn    
+            3:::::3r::::rrr:::::::::r    dd::::::::::::::d   cc:::::::::::::::c  a::::::::::::a n:::nn::::::::nn  
+    33333333:::::3 r:::::::::::::::::r  d::::::::::::::::d  c:::::::::::::::::c  aaaaaaaaa:::::an::::::::::::::nn 
+    3:::::::::::3  rr::::::rrrrr::::::rd:::::::ddddd:::::d c:::::::cccccc:::::c           a::::ann:::::::::::::::n
+    33333333:::::3  r:::::r     r:::::rd::::::d    d:::::d c::::::c     ccccccc    aaaaaaa:::::a  n:::::nnnn:::::n
+            3:::::3 r:::::r     rrrrrrrd:::::d     d:::::d c:::::c               aa::::::::::::a  n::::n    n::::n
+            3:::::3 r:::::r            d:::::d     d:::::d c:::::c              a::::aaaa::::::a  n::::n    n::::n
+            3:::::3 r:::::r            d:::::d     d:::::d c::::::c     ccccccca::::a    a:::::a  n::::n    n::::n
+3333333     3:::::3 r:::::r            d::::::ddddd::::::ddc:::::::cccccc:::::ca::::a    a:::::a  n::::n    n::::n
+3::::::33333::::::3 r:::::r             d:::::::::::::::::d c:::::::::::::::::ca:::::aaaa::::::a  n::::n    n::::n
+3:::::::::::::::33  r:::::r              d:::::::::ddd::::d  cc:::::::::::::::c a::::::::::aa:::a n::::n    n::::n
+ 333333333333333    rrrrrrr               ddddddddd   ddddd    cccccccccccccccc  aaaaaaaaaa  aaaa nnnnnn    nnnnnn
