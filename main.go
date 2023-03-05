@@ -181,5 +181,6 @@ func main() {
 	router.PATCH	("/pronouns/:username", setPronoun)
 	router.DELETE	("/pronouns/:username", deletePronoun)
 
-	router.Run("localhost:1337")
+	router.Run(":1337")
 }
+

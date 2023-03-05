@@ -1,0 +1,10 @@
+# vim: set tabstop=2
+version: '2.2'
+
+services:
+  tcas-pronoun-api:
+    build: .
+    ports:
+      - 1337:1337
+    volumes:
+      - ./pronouns:/app/pronouns
